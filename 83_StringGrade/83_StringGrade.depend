@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1602252332 source:c:\users\jaidog\google drive\c\83_stringgrade\main.c
+	<stdio.h>
+	<string.h>
+

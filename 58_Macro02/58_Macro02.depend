@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1600248649 source:g:\my drive\c\58_macro02\main.c
+	<windows.h>
+	<stdio.h>
+	<conio.h>
+

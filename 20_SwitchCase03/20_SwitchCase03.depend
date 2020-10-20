@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1599059517 source:c:\users\66985\desktop\c\20_switchcase03\main.c
+	<stdio.h>
+	<conio.h>
+	<ctype.h>
+

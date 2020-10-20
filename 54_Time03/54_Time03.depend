@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1600242353 source:g:\my drive\c\54_time03\main.c
+	<stdio.h>
+	<time.h>
+

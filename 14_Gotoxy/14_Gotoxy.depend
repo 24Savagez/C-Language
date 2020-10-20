@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1598849064 source:c:\users\66985\desktop\c\14_gotoxy\main.c
+	<windows.h>
+	<stdio.h>
+	<conio.h>
+
+1598849064 source:g:\my drive\c\14_gotoxy\main.c
+	<windows.h>
+	<stdio.h>
+	<conio.h>
+

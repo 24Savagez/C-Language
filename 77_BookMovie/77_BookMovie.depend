@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1601824560 source:c:\users\jaidog\google drive\c\77_bookmovie\main.c
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+
